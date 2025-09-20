@@ -1,13 +1,17 @@
 # **'Algorithm_Visualization_Library'**
 
-### **Overview**
+## **Versioning**
+Algorithm Visualizer was released in 2024 (1403 Persian Solar Hijri calendar). The subsequent version was released in 2025 (1404 SH) and is available from [algorithm-visualizer-04](https://github.com/ui-ce/algorithm-visualizer-04) repository.
+
+
+## **Overview**
 The algorithm_visualization_library is a Python library designed to help developers and educators visualize algorithms and data structures in a clear and intuitive manner. The library leverages LaTeX and TikZ to generate high-quality visual representations, making it easier to understand complex concepts like linked lists, binary trees, AVL trees, and Red-Black trees.
 
 Today, the performance of algorithms plays a very important role in various fields, including computer science, engineering, basic sciences, and even our daily lives. However, understanding the concepts related to algorithms can be challenging for many people. The purpose of this research is to provide an innovative solution to facilitate the learning process of algorithms through visual visualization and user interaction. Additionally, users can understand how an algorithm works by observing its performance and viewing a step-by-step implementation. The use of visual and interactive methods in this tool makes learning algorithms more engaging, especially for those who may not have an inherent interest in abstract concepts.
 
 In this research, users can provide basic information about their desired algorithm, which is in the list of implemented algorithms. Then, the system will illustrate the algorithm's steps visually, step by step, using LaTeX.
 
-### **Applications** 
+## **Applications** 
 The applications of this project span:
 - teaching 
 - learning 
